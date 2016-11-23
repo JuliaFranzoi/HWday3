@@ -135,5 +135,5 @@ users = {
 #print users["Erik"][:pets]["Fluffy"]
 
 # 9. Add yourself to the users hash
-users['julia'] = []
-print users.keys()
+# users['julia'] = []
+# print users.keys()
